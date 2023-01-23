@@ -31,7 +31,8 @@ body {
 /*FORM*/
 
 .form h3 {
-    margin-bottom: 1rem;
+  margin-bottom: 1rem;
+  margin-left: 45px;
 }
 
 .form-input-container {
